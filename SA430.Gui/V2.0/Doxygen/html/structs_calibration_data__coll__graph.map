@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$structs_cal_coeffs.html" title="sCalCoeffs" alt="" coords="5,5,88,32"/>
+<area shape="rect" id="node4" href="$structs_cal_frq_range.html" title="sCalFrqRange" alt="" coords="152,5,256,32"/>
+<area shape="rect" id="node6" href="$structs_ref_lev_gain.html" title="sRefLevGain" alt="" coords="281,5,375,32"/>
+</map>

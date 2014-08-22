@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$sa430_type_def_8h.html" title="sa430TypeDef.h" alt="" coords="76,229,191,256"/>
+<area shape="rect" id="node11" href="$sa430_8h.html" title="sa430.h" alt="" coords="353,155,420,181"/>
+<area shape="rect" id="node14" href="$c_device_driver_8h.html" title="cdevicedriver.h" alt="" coords="525,80,632,107"/>
+<area shape="rect" id="node45" href="$c_usb_detect_8h.html" title="cUsbDetect.h" alt="" coords="800,80,901,107"/>
+<area shape="rect" id="node53" href="$c_reg_access_8h.html" title="cRegAccess.h" alt="" coords="221,155,328,181"/>
+<area shape="rect" id="node22" href="$c_driver_8h.html" title="cdriver.h" alt="" coords="691,155,761,181"/>
+<area shape="rect" id="node29" href="$c_event_8h.html" title="cevent.h" alt="" coords="829,229,899,256"/>
+<area shape="rect" id="node33" href="$c_mutex_8h.html" title="cmutex.h" alt="" coords="1229,229,1304,256"/>
+<area shape="rect" id="node36" href="$c_thread_8h.html" title="cthread.h" alt="" coords="939,155,1015,181"/>
+</map>

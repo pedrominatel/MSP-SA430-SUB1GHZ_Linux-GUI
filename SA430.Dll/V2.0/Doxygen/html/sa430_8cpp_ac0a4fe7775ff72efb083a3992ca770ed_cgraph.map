@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classc_device_driver.html#a3011272ac00d9abc15354b81f263ac04" title="cDeviceDriver::Open" alt="" coords="160,5,299,32"/>
+<area shape="rect" id="node5" href="$classc_usb_detect.html#a1e50d8c79221f1b42bada55d29d8879a" title="Traces dedicated comport for unplugg event." alt="" coords="172,56,287,83"/>
+<area shape="rect" id="node7" href="$classc_reg_access.html#a94537cf4aa5e343e9e391a09f9ea4122" title="Compare the USB Device information list with given comport name." alt="" coords="347,56,530,83"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$struct__s_frq_setting.html" title="_sFrqSetting" alt="" coords="174,97,270,124"/>
+<area shape="rect" id="node4" href="$struct__s_frq_values.html" title="_sFrqValues" alt="" coords="53,5,147,32"/>
+<area shape="rect" id="node6" href="$struct__s_device_info.html" title="_sDeviceInfo" alt="" coords="298,97,392,124"/>
+<area shape="rect" id="node8" href="$structs_calibration_data.html" title="sCalibrationData" alt="" coords="418,97,535,124"/>
+<area shape="rect" id="node10" href="$structs_cal_coeffs.html" title="sCalCoeffs" alt="" coords="277,5,360,32"/>
+<area shape="rect" id="node12" href="$structs_cal_frq_range.html" title="sCalFrqRange" alt="" coords="424,5,528,32"/>
+<area shape="rect" id="node14" href="$structs_ref_lev_gain.html" title="sRefLevGain" alt="" coords="553,5,647,32"/>
+</map>

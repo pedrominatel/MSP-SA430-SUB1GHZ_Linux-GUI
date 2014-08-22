@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classc_device_driver.html#a7f24b54b63855ff207848222f2aeebf6" title="close active comport. Returns true if done else false" alt="" coords="177,5,317,32"/>
+<area shape="rect" id="node5" href="$classc_usb_detect.html#abc2606e1085aa2b05370405b0597f2a2" title="Switch off tracing the dedicated comport." alt="" coords="189,56,304,83"/>
+</map>

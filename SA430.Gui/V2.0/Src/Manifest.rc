@@ -1,0 +1,27 @@
+IDI_ICON1               ICON    DISCARDABLE     "ti.ico"
+1 VERSIONINFO
+ FILEVERSION 2,0,0,0
+ PRODUCTVERSION 2,0,0,0
+ FILEFLAGSMASK 0x17L
+ FILEOS 0x4L
+ FILETYPE 0x2L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904E4"
+        BEGIN
+            VALUE "SA430 Spectrum Analyzer 1GHz", "SA430Gui.exe"
+            VALUE "FileVersion", "2.0.0.0"
+            VALUE "InternalName", " SA430Gui"
+            VALUE "LegalCopyright", "Copyright (C) 20011"
+            VALUE "OriginalFilename", "SA430Gui.exe"
+            VALUE "ProductName", "SA430 Graphic User Interface"
+            VALUE "ProductVersion", "0.2.0.0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x40c, 1200
+    END
+END

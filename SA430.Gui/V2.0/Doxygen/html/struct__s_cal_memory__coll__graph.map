@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$struct__s_prog_header.html" title="_sProgHeader" alt="" coords="17,96,121,123"/>
+<area shape="rect" id="node4" href="$structs_calibration_data.html" title="sCalibrationData" alt="" coords="145,96,263,123"/>
+<area shape="rect" id="node6" href="$structs_cal_coeffs.html" title="sCalCoeffs" alt="" coords="5,5,88,32"/>
+<area shape="rect" id="node8" href="$structs_cal_frq_range.html" title="sCalFrqRange" alt="" coords="152,5,256,32"/>
+<area shape="rect" id="node10" href="$structs_ref_lev_gain.html" title="sRefLevGain" alt="" coords="281,5,375,32"/>
+</map>

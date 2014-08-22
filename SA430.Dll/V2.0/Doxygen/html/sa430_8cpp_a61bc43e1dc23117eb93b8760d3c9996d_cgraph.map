@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classc_usb_detect.html#a86035bc910df8abf8fd1cb2bfc510085" title="Checks if unplugg event happened." alt="" coords="197,5,387,32"/>
+<area shape="rect" id="node5" href="$sa430_8cpp.html#ab5cf966ef9e0b1cd8f6bdb974293fcec" title="Disconnect active comport." alt="" coords="231,56,353,83"/>
+<area shape="rect" id="node11" href="$classc_device_driver.html#a80bd7a22feb0697f21e9be82a756db4d" title="Returns true if driver has reported no error, else returns false." alt="" coords="216,107,368,133"/>
+<area shape="rect" id="node13" href="$classc_device_driver.html#a949609bff48e3601c2dcee4ff1a5e7fb" title="Verifies if a frame was received from the SA430 device, since last call of this function." alt="" coords="183,157,401,184"/>
+<area shape="rect" id="node15" href="$classc_device_driver.html#adfab78643df5fd48bb15d6b42a10e34e" title="Checks if the frame decoder reported a frame with crc error." alt="" coords="185,208,399,235"/>
+<area shape="rect" id="node17" href="$classc_device_driver.html#ae750da4f7903e501ee6cf572cb5fddc2" title="Checks if the the frame decoder reported a timeout error." alt="" coords="171,259,413,285"/>
+<area shape="rect" id="node7" href="$classc_device_driver.html#a7f24b54b63855ff207848222f2aeebf6" title="close active comport. Returns true if done else false" alt="" coords="462,31,602,57"/>
+<area shape="rect" id="node9" href="$classc_usb_detect.html#abc2606e1085aa2b05370405b0597f2a2" title="Switch off tracing the dedicated comport." alt="" coords="475,81,589,108"/>
+</map>

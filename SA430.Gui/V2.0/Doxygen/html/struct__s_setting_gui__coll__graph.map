@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$struct__s_setting_grid.html" title="_sSettingGrid" alt="" coords="5,96,107,123"/>
+<area shape="rect" id="node4" href="$struct__s_frq_setting.html" title="_sFrqSetting" alt="" coords="131,96,227,123"/>
+<area shape="rect" id="node6" href="$struct__s_frq_values.html" title="_sFrqValues" alt="" coords="131,5,225,32"/>
+<area shape="rect" id="node8" href="$struct__s_setting_trace.html" title="_sSettingTrace" alt="" coords="255,96,364,123"/>
+<area shape="rect" id="node10" href="$struct__s_setting_marker.html" title="_sSettingMarker" alt="" coords="388,96,505,123"/>
+</map>

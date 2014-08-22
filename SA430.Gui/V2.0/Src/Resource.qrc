@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/img">
+        <file alias="TiLogo">TILogo.png</file>
+        <file alias="Accept">Accept.png</file>
+        <file alias="AutoPeak">Autopeak.png</file>
+        <file alias="Connect">Connect.png</file>
+        <file>Copy.png</file>
+        <file alias="Disconnect">Disconnect.png</file>
+        <file alias="Load">Load.png</file>
+        <file alias="PeakLeft">PeakLeft.png</file>
+        <file alias="PeakRight">PeakRight.png</file>
+        <file alias="Play">Play.png</file>
+        <file alias="Print">Print.png</file>
+        <file alias="Save">Save.png</file>
+        <file alias="Stop">Stop.png</file>
+        <file alias="Undo">undo.png</file>
+        <file alias="imgSplash">SplashScreen.png</file>
+        <file alias="48Undo">undo48x48.png</file>
+        <file alias="48Accept">Accept48x48.png</file>
+        <file alias="48AutoPeak">Autopeak48x48.png</file>
+        <file alias="48Connect">Connect48x48.png</file>
+        <file alias="48Disconnect">disconnect48x48.png</file>
+        <file alias="48Open">open48x48.png</file>
+        <file alias="48Pause">pause48x48.png</file>
+        <file alias="48Pdf">pdf48x48.png</file>
+        <file alias="48PeakLeft">PeakLeft48x48.png</file>
+        <file alias="48PeakRight">peakright48x48.png</file>
+        <file alias="48Play">Play48x48.png</file>
+        <file alias="48Print">Print48x48.png</file>
+        <file alias="48Save">Save48x48.png</file>
+        <file alias="48Settings">settings48x48.png</file>
+        <file alias="48Stop">Stop48x48.png</file>
+        <file alias="Ti">ti.ico</file>
+    </qresource>
+</RCC>

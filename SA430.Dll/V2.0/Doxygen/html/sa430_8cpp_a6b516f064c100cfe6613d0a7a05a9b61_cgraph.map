@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classc_reg_access.html#a8da8578a7217b548359d2923f4cf428b" title="Load the active comport list from the Windows OS Registry." alt="" coords="197,5,401,32"/>
+<area shape="rect" id="node5" href="$classc_reg_access.html#a730863f1142cb2af3e572e64ff46e6aa" title="Return all installed SA430 Device informations." alt="" coords="191,56,406,83"/>
+<area shape="rect" id="node7" href="$classc_reg_access.html#a9b350677f8c129b0a9c109e0238f53ee" title="Returns the dedicated SA430 USB device information." alt="" coords="182,107,415,133"/>
+</map>
