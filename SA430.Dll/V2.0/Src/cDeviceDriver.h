@@ -39,10 +39,10 @@ using namespace std;
 
 #include "sa430TypeDef.h"
 #include "sa430.h"
-#include "cdriver.h"
-#include "cevent.h"
-#include "cmutex.h"
-#include "cthread.h"
+#include "cDriver.h"
+#include "cEvent.h"
+#include "cMutex.h"
+#include "cThread.h"
 
 
 /*!

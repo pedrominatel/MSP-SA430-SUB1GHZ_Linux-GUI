@@ -34,7 +34,7 @@
 
 #include "sa430TypeDef.h"
 #include "sa430.h"
-#include "cdevicedriver.h"
+#include "cDeviceDriver.h"
 #include "cUsbDetect.h"
 #include "cRegAccess.h"
 #include <string>

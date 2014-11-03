@@ -32,8 +32,8 @@
 #include <windows.h>
 #include <string>
 #include <dbt.h>
-#include "cevent.h"
-#include "cthread.h"
+#include "cEvent.h"
+#include "cThread.h"
 #include "cRegAccess.h"
 
 using namespace std;

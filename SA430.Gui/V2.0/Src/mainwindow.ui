@@ -10,7 +10,7 @@
     <x>0</x>
     <y>0</y>
     <width>882</width>
-    <height>637</height>
+    <height>644</height>
    </rect>
   </property>
   <property name="minimumSize">
@@ -58,14 +58,23 @@ color: rgb(255, 255, 255);</string>
          <enum>QFrame::Raised</enum>
         </property>
         <layout class="QGridLayout" name="gridLayout_5">
+         <property name="leftMargin">
+          <number>1</number>
+         </property>
+         <property name="topMargin">
+          <number>1</number>
+         </property>
+         <property name="rightMargin">
+          <number>1</number>
+         </property>
+         <property name="bottomMargin">
+          <number>1</number>
+         </property>
          <property name="horizontalSpacing">
           <number>5</number>
          </property>
          <property name="verticalSpacing">
           <number>2</number>
-         </property>
-         <property name="margin">
-          <number>1</number>
          </property>
          <item row="0" column="0" rowspan="2">
           <widget class="QLabel" name="imgLogo">
@@ -394,7 +403,16 @@ color: rgb(255, 255, 255);</string>
          <enum>QFrame::Raised</enum>
         </property>
         <layout class="QHBoxLayout" name="horizontalLayout_15">
-         <property name="margin">
+         <property name="leftMargin">
+          <number>1</number>
+         </property>
+         <property name="topMargin">
+          <number>1</number>
+         </property>
+         <property name="rightMargin">
+          <number>1</number>
+         </property>
+         <property name="bottomMargin">
           <number>1</number>
          </property>
          <item>
@@ -895,7 +913,7 @@ color: rgb(0, 0, 0);</string>
        <enum>QTabWidget::Rounded</enum>
       </property>
       <property name="currentIndex">
-       <number>1</number>
+       <number>4</number>
       </property>
       <property name="movable">
        <bool>false</bool>
@@ -964,7 +982,16 @@ color: rgb(0, 0, 0);</string>
            <string>  Selected Device  </string>
           </property>
           <layout class="QVBoxLayout" name="verticalLayout_21">
-           <property name="margin">
+           <property name="leftMargin">
+            <number>1</number>
+           </property>
+           <property name="topMargin">
+            <number>1</number>
+           </property>
+           <property name="rightMargin">
+            <number>1</number>
+           </property>
+           <property name="bottomMargin">
             <number>1</number>
            </property>
            <item>
@@ -1293,7 +1320,16 @@ background-color: rgb(227, 222, 201);</string>
            <property name="spacing">
             <number>2</number>
            </property>
-           <property name="margin">
+           <property name="leftMargin">
+            <number>1</number>
+           </property>
+           <property name="topMargin">
+            <number>1</number>
+           </property>
+           <property name="rightMargin">
+            <number>1</number>
+           </property>
+           <property name="bottomMargin">
             <number>1</number>
            </property>
            <item>
@@ -1718,7 +1754,16 @@ background-color: rgb(227, 222, 201);</string>
              <property name="spacing">
               <number>9</number>
              </property>
-             <property name="margin">
+             <property name="leftMargin">
+              <number>1</number>
+             </property>
+             <property name="topMargin">
+              <number>1</number>
+             </property>
+             <property name="rightMargin">
+              <number>1</number>
+             </property>
+             <property name="bottomMargin">
               <number>1</number>
              </property>
              <item>
@@ -1881,7 +1926,16 @@ background-color: rgb(227, 222, 201);</string>
               <property name="spacing">
                <number>2</number>
               </property>
-              <property name="margin">
+              <property name="leftMargin">
+               <number>1</number>
+              </property>
+              <property name="topMargin">
+               <number>1</number>
+              </property>
+              <property name="rightMargin">
+               <number>1</number>
+              </property>
+              <property name="bottomMargin">
                <number>1</number>
               </property>
               <item>
@@ -1889,7 +1943,16 @@ background-color: rgb(227, 222, 201);</string>
                 <property name="spacing">
                  <number>9</number>
                 </property>
-                <property name="margin">
+                <property name="leftMargin">
+                 <number>1</number>
+                </property>
+                <property name="topMargin">
+                 <number>1</number>
+                </property>
+                <property name="rightMargin">
+                 <number>1</number>
+                </property>
+                <property name="bottomMargin">
                  <number>1</number>
                 </property>
                 <item>
@@ -2053,7 +2116,16 @@ background-color: rgb(227, 222, 201);</string>
               <property name="spacing">
                <number>2</number>
               </property>
-              <property name="margin">
+              <property name="leftMargin">
+               <number>1</number>
+              </property>
+              <property name="topMargin">
+               <number>1</number>
+              </property>
+              <property name="rightMargin">
+               <number>1</number>
+              </property>
+              <property name="bottomMargin">
                <number>1</number>
               </property>
               <item>
@@ -2061,7 +2133,16 @@ background-color: rgb(227, 222, 201);</string>
                 <property name="spacing">
                  <number>9</number>
                 </property>
-                <property name="margin">
+                <property name="leftMargin">
+                 <number>1</number>
+                </property>
+                <property name="topMargin">
+                 <number>1</number>
+                </property>
+                <property name="rightMargin">
+                 <number>1</number>
+                </property>
+                <property name="bottomMargin">
                  <number>1</number>
                 </property>
                 <item>
@@ -4566,6 +4647,7 @@ background-color: rgb(227, 222, 201);</string>
    <class>QwtPlot</class>
    <extends>QFrame</extends>
    <header>qwt_plot.h</header>
+   <container>1</container>
   </customwidget>
  </customwidgets>
  <resources>
